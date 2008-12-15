@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>ClickBooth Coding Test</title>
+
+    <style type="text/css">
+        @import url('styles/styles.css');
+        @import url('styles/ui.dialog.css');
+        @import url('styles/ui.resizable.css');
+        @import url('styles/ui.draggable.css');
+    </style>
+
+    <script type="text/javascript" src="js/jquery-1.2.6.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-personalized-1.5.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery.selectboxes.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    
+</head>
+<body>
+<div class="main-container">
+
+<div class="control-panel">
+    <button onclick="showEditTask(null);" style="float:left">Create New Task</button>
+    <span class="heading">My Task List</span>
+    <div style="clear:both;"></div>
+</div>
+
+<!-- Main Task List -->
+<div class="main-panel">
+
+  <div class="subpanel left">
+    <h1>Open Tasks</h1>
+    <table class="tasklist" id="open-tasks">
+      <thead>
+        <tr>
+          <th>Task Description</th>
+          <th style="width:80px">Status</th>
+          <th style="width:50px">&nbsp;</th>
+        </tr>
+      </thead>
+      <tbody class="items">
+      </tbody>
+    </table>
+  </div>
+
+  <div class="subpanel right">
+    <h1>Closed Tasks</h1>
+    <table class="tasklist" id="closed-tasks">
+      <thead>
+        <tr>
+          <th>Task Description</th>
+          <th style="width:80px">Status</th>
+          <th style="width:50px">&nbsp;</th>
+        </tr>
+      </thead>
+      <tbody class="items">
+      </tbody>
+    </table>
+  </div>
+  
+  <div class="clear0"></div>
+</div>
+
+<!--  Dialog For Adding and Editing Tasks -->
+<div id="task-dialog" title="Edit Task Info">
+  <input type="hidden" name="id" id="task-id"/>
+  <input type="hidden" name="priority" id="task-priority"/>
+  <label>Task Description<br/>
+    <input type="text" name="description" value="sdsdfs" id="task-description"/>
+  </label>
+  <label>Status<br/>
+    <select name="status" id="task-status">
+      <option value="NEW">NEW</option>
+      <option value="BLOCKED">BLOCKED</option>
+      <option value="COMPLETE">COMPLETE</option>
+    </select>
+  </label>
+</div>
+
+</div>
+</body>
+</html>

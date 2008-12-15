@@ -1,0 +1,883 @@
+UPDATE `tasks` SET `id` = 'null', `priority` = 1, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = 'null'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+INSERT INTO `tasks` (`id`,`priority`,`description`,`complete`,`updated`) VALUES (NULL,1,'test setse tse tts t set',1,NULL)
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+INSERT INTO `tasks` (`id`,`priority`,`description`,`complete`,`updated`) VALUES (NULL,1,'test setse tse tts t set',1,NULL)
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+INSERT INTO `tasks` (`id`,`priority`,`description`,`complete`,`updated`) VALUES (NULL,3,'test item',0,NULL)
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+INSERT INTO `tasks` (`id`,`priority`,`description`,`complete`,`updated`) VALUES (NULL,4,'add another item',0,NULL)
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 1, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '4', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '2', `priority` = 1, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '4', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 2, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '4', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 4, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 4, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 4, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 5, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 4, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 5, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 2, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '2', `priority` = 5, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 2, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 4, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 4, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 4, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 4, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 4, `description` = 'sdfsdf', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 5, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 2, `description` = 'add another item', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '4', `priority` = 1, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '4', `priority` = 1, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '4', `priority` = 1, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '4', `priority` = 1, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'test item', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 5, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 0, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 5, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 5, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 3, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 4, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '6', `priority` = 0, `description` = 'test item', `complete` = 0, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'sdfsdf', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'test setse tse tts t set', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'a brand new item 2', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'add another item', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'test setse tse tts t set', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'another item', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '6', `priority` = 0, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'hfh fhf', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'hfh fhf', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'hfh fhf', `complete` = 1, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'hfh fhf', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'hfh fhf', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'hfh fhf', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = '', `complete` = 0, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'hfh fhf', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 1, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 2, `description` = 'hfh fhf', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = '', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'hfh fhf', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'test updated task', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'test updated task', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+INSERT INTO `tasks` (`id`,`priority`,`description`,`complete`,`updated`) VALUES (NULL,2,'test',0,NULL)
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'setset', `complete` = 0, `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'hfh fhf', `complete` = 0, `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '8', `priority` = 2, `description` = 'test updated task', `complete` = 0, `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'test updated task', `complete` = 1, `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '1', `priority` = 4, `description` = 'test updated task', `complete` = 1, `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'fghf ghghfgg', `complete` = 1, `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'hhghfhff', `complete` = 1, `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 7, `description` = 'hfhfh fhfh', `complete` = 1, `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 4, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 5, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'hfh fhf', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 2, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '2', `priority` = 5, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'hfh fhf', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'hfh fhf', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 4, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 5, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 2, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '5', `priority` = 6, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '3', `priority` = 0, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 5, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 3, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '5', `priority` = 6, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '6', `priority` = 0, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '1', `priority` = 1, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '5', `priority` = 5, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '6', `priority` = 0, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'test updated task', `status` = 'NEW', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 1, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 6, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 8, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '1', `priority` = 0, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '8', `priority` = 5, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '1', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 2, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '8', `priority` = 6, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '2', `priority` = 5, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '8', `priority` = 6, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 1, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '3', `priority` = 2, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 5, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 6, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'hfh fhf', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 4, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 5, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+INSERT INTO `tasks` (`id`,`priority`,`description`,`status`,`updated`) VALUES (NULL,0,'test brand new task','NEW',NULL)
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'last priority', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '9', `priority` = 0, `description` = 'test brand new task', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'last priority', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '7', `priority` = 6, `description` = 'last priority', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '1', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '8', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '9', `priority` = 0, `description` = 'test brand new task', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'last priority', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '1', `priority` = 6, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '4', `priority` = 9, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '9', `priority` = 0, `description` = 'test brand new task', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 1, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'last priority', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '4', `priority` = 6, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '8', `priority` = 7, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 0, `description` = 'hfhfh fhfh', `status` = 'NEW', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '9', `priority` = 3, `description` = 'test brand new task', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '5', `priority` = 4, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'last priority', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 6, `description` = 'test brand new task', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '3', `priority` = 0, `description` = 'hfhfh fhfh', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '6', `priority` = 0, `description` = 'fghf ghghfgg', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 1, `description` = 'test updated task', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'new task description', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '3', `priority` = 3, `description` = 'hfhfh fhfh', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'last priority', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 5, `description` = 'test brand new task', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'hfhfh fhfh', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'new task description', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'first task', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '6', `priority` = 0, `description` = 'second task', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '7', `priority` = 0, `description` = 'fourth task', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '9', `priority` = 0, `description` = 'second to last', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '3', `priority` = 0, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '2', `priority` = 0, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = 'first task', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 2, `description` = 'second task', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'fourth task', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 4, `description` = 'second to last', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '5', `priority` = 0, `description` = 'first task', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 1, `description` = 'second task', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '7', `priority` = 3, `description` = 'fourth task', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 4, `description` = 'second to last', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 5, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 6, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 7, `description` = 'hhghfhff', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '4', `priority` = 0, `description` = 'hhghfhff', `status` = 'NEW', `updated` = NULL WHERE `id` = '4'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC
+UPDATE `tasks` SET `id` = '4', `priority` = 0, `description` = 'hhghfhff', `status` = 'NEW', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 1, `description` = 'first task', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '6', `priority` = 3, `description` = 'second task', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 4, `description` = 'fourth task', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 5, `description` = 'second to last', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 6, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 7, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 0, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 1, `description` = 'hhghfhff', `status` = 'NEW', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 2, `description` = 'first task', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '2', `priority` = 3, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'second task', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'fourth task', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 6, `description` = 'second to last', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '3', `priority` = 7, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 0, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '4', `priority` = 1, `description` = 'hhghfhff', `status` = 'NEW', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '2', `priority` = 2, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'first task', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'second task', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'fourth task', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 6, `description` = 'second to last', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '2', `priority` = 7, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+UPDATE `tasks` SET `id` = '3', `priority` = 0, `description` = 'last', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '3'
+UPDATE `tasks` SET `id` = '2', `priority` = 1, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '4', `priority` = 2, `description` = 'hhghfhff', `status` = 'NEW', `updated` = NULL WHERE `id` = '4'
+UPDATE `tasks` SET `id` = '5', `priority` = 3, `description` = 'first task', `status` = 'NEW', `updated` = NULL WHERE `id` = '5'
+UPDATE `tasks` SET `id` = '6', `priority` = 4, `description` = 'second task', `status` = 'NEW', `updated` = NULL WHERE `id` = '6'
+UPDATE `tasks` SET `id` = '7', `priority` = 5, `description` = 'fourth task', `status` = 'NEW', `updated` = NULL WHERE `id` = '7'
+UPDATE `tasks` SET `id` = '9', `priority` = 6, `description` = 'second to last', `status` = 'NEW', `updated` = NULL WHERE `id` = '9'
+UPDATE `tasks` SET `id` = '2', `priority` = 7, `description` = 'third task (blocked)', `status` = 'BLOCKED', `updated` = NULL WHERE `id` = '2'
+UPDATE `tasks` SET `id` = '8', `priority` = 8, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '8'
+UPDATE `tasks` SET `id` = '1', `priority` = 9, `description` = 'test updated task', `status` = 'COMPLETE', `updated` = NULL WHERE `id` = '1'
+SELECT * FROM `tasks` WHERE 1 ORDER BY `priority` ASC

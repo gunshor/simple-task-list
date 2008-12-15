@@ -1,0 +1,83 @@
+/* This file skins dialog */
+.ui-dialog {
+	background-color: #fff;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+	border-bottom: 1px solid #A6BDEA;
+	background: #A6BDEA url(../imgs/dialog/dialog-title.gif) repeat-x;
+	padding: 0px; height: 28px; _height: 29px;
+}
+
+.ui-dialog.ui-draggable .ui-dialog-titlebar {
+	cursor: move;
+}
+
+/**
+ * This styles were change.
+ */
+.ui-dialog-titlebar-close, .ui-dialog-titlebar-max, .ui-dialog-titlebar-rest {
+	width: 16px; height: 16px; position:absolute; top: 6px; cursor: default; 
+	background-repeat:no-repeat; outline:none;
+}
+.ui-dialog-titlebar-max {
+	background-image: url(../imgs/dialog/dialog-titlebar-max.png); right: 22px;
+}
+.ui-dialog-titlebar-rest {
+	background-image: url(../imgs/dialog/dialog-titlebar-min.png); right: 22px;
+}
+.ui-dialog .ui-dialog-titlebar-close {	
+	background-image: url(../imgs/dialog/dialog-titlebar-close.png); right: 7px;
+}
+.ui-dialog-titlebar-max span, .ui-dialog-titlebar-close span, .ui-dialog-titlebar-rest span {
+	display: none; outline:none;
+}
+.ui-dialog .ui-dialog-titlebar-close-hover {
+	background: url(../imgs/dialog/dialog-titlebar-close-hover.png) no-repeat;
+}
+.ui-dialog .ui-dialog-titlebar-max-hover {
+	background: url(../imgs/dialog/dialog-titlebar-max-hover.png) no-repeat;
+}
+.ui-dialog .ui-dialog-titlebar-rest-hover {
+	background: url(../imgs/dialog/dialog-titlebar-min-hover.png) no-repeat;
+}
+/**
+ * ********************************************************************************************
+ */
+
+.ui-dialog .ui-dialog-title {
+	margin-left: 5px; color: white;
+	font-weight: bold; position: relative;
+	top: 6px; left: 4px;
+}
+
+.ui-dialog .ui-dialog-content {
+    overflow: auto; height: 80%; margin: 0 0.75em;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+	position: absolute;
+	bottom: 18px; right: 22px;
+	width: 100%; text-align: right;
+}
+
+.ui-dialog .ui-dialog-buttonpane button {
+	margin: 6px;
+}
+
+/* Dialog handle styles */
+.ui-dialog .ui-resizable-n { cursor: n-resize; height: 6px; width: 100%; top: 0px; left: 0px; background: transparent url(../imgs/dialog/dialog-n.gif) repeat scroll center top; }
+
+.ui-dialog .ui-resizable-s { cursor: s-resize; height: 8px; width: 100%; bottom: 0px; left: 0px; background: transparent url(../imgs/dialog/dialog-s.gif) repeat scroll center top; }
+
+.ui-dialog .ui-resizable-e { cursor: e-resize; width: 8px; right: 0px; top: 0px; height: 100%; background: transparent url(../imgs/dialog/dialog-e.gif) repeat scroll right center; }
+
+.ui-dialog .ui-resizable-w { cursor: w-resize; width: 8px; left: 0px; top: 0px; height: 100%; background: transparent url(../imgs/dialog/dialog-w.gif) repeat scroll right center; }
+
+.ui-dialog .ui-resizable-se { cursor: se-resize; width: 9px; height: 9px; right: 0px; bottom: 0px; background: transparent url(../imgs/dialog/dialog-se.gif); }
+
+.ui-dialog .ui-resizable-sw { cursor: sw-resize; width: 9px; height: 9px; left: 0px; bottom: 0px; background: transparent url(../imgs/dialog/dialog-sw.gif); }
+
+.ui-dialog .ui-resizable-nw { cursor: nw-resize; width: 9px; height: 29px; left: 0px; top: 0px; background: transparent url(../imgs/dialog/dialog-nw.gif); }
+
+.ui-dialog .ui-resizable-ne { cursor: ne-resize; width: 9px; height: 29px; right: 0px; top: 0px; background: transparent url(../imgs/dialog/dialog-ne.gif); }

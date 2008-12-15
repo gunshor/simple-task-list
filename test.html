@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Insert title here</title>
+
+    <style type="text/css">
+    .task-item { 
+        border: 1px solid black;
+        padding: 3px;
+        margin: 2px;
+    }
+    .task-list {
+        list-style-type: none;
+    }
+    .handle { float: left; margin-right: 10px; cursor: move; }
+    .task-container { width: 400px; }
+    </style>
+
+    <script type="text/javascript" src="jquery-1.2.6.js"></script>
+    <script type="text/javascript" src="jquery-ui-personalized-1.5.3.min.js"></script>
+</head>
+<body>
+
+<table class="mylist">
+  <thead>
+  </thead>
+  <tbody class="task-list">
+    <tr>
+       <td>tsetstsesetse</td>
+    </tr>
+    <tr>
+       <td>tsetssdfs324324d>
+    </tr>
+    <tr>
+       <td>tsets234234etse</td>
+    </tr>
+    <tr>
+       <td>1231213123</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<input id="test-log" type="text" name="log" />
+
+
+<div class="task-item" style="display:none;">
+  <input type="checkbox" name="completed" />
+  <span class="description"></span>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    
+    $(".task-list").sortable({
+	   cursor: 'move'
+     });
+    
+});
+</script>
+
+</body>
+</html>
