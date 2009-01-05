@@ -1,4 +1,4 @@
-Some notes on this code test:
+Some notes on this sample application:
 
 *) Many of these tasks I would never do. Instead, a good library/framework would
    be chosen to do them.  For testing purposes, I wanted to write all of the PHP
